@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Mehedi Khan</h1>
-<h3 align="center">A full stack web developer and a competitive programming enthusiast.</h3>
+<h3 align="center">Full stack web developer, competitive programming enthusiast, AI enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedikhan72&label=Profile%20views&color=0e75b6&style=flat" alt="mehedikhan72" /> </p>
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://mehedikhan72.github.io/](https://mehedikhan72.github.io/)
-
-- 💬 Ask me about **Django, Flask, Bootstrap**
 
 - 📫 How to reach me **lopingcard@gmail.com**
 
