@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedikhan72&label=Profile%20views&color=0e75b6&style=flat" alt="mehedikhan72" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://mehedikhan72.github.io/](https://mehedikhan72.github.io/)
 
 - 📫 How to reach me **lopingcard@gmail.com**
